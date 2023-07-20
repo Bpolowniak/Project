@@ -4,6 +4,7 @@ import numpy as np
 from datetime import datetime
 import plotly.express as px
 import yfinance as yf
+import plotly as pl
 
 st.title('Stock Market Analysis by Industry')
 
